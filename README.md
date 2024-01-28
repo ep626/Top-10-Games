@@ -28,7 +28,7 @@ Besides the web app's responsive UI, I added a gradient background to provide a 
 
 Here's a walkthrough of implemented required features:
 
-![Website Demo](https://github.com/COP4808-Spring2024-Full-Stack-Webdev/hw1-ep626/blob/main/website.gif)
+![Website Demo](https://github.com/ep626/Top-10-Games/blob/main/updatedWebsite.gif)
 
 GIF created with: Gifox  
 
